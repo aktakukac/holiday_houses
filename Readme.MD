@@ -23,4 +23,8 @@ The addresses were then geocoded using google API
 geocoding_final.R
 ```
 
+Visualizing data:
 
+```{r}
+Orszag.png
+```
