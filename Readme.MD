@@ -1,6 +1,7 @@
 ---
 title: "Readme"
 content: Analysis of Holiday Homes in Hungary from a popular advertisement site ingatlan.com 
+juhúúú csilla
 ---
 
 This is a workflow that analysis the data available from a popular property sales site, ingatlan.com regarding holiday homes. See <http://ingatlan.com>.
